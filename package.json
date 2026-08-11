@@ -1,6 +1,6 @@
 {
   "name": "@nexploy/shared",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Shared primitives for Nexploy — Docker constants, infrastructure filters and path safety helpers.",
   "license": "GPL-3.0",
   "repository": {
