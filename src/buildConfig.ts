@@ -6,7 +6,7 @@ export interface BuildConfig {
     gitAccountId?: string;
     repositoryId: string;
     organizationId?: string;
-    gitProvider: 'GITHUB' | 'GITLAB' | 'GITEA' | 'BITBUCKET' | 'AZURE_REPOS';
+    gitProvider: 'GITHUB' | 'GITLAB' | 'GITEA' | 'BITBUCKET' | 'AZURE_REPOS' | 'CUSTOM';
     gitUrl: string;
     gitBranch?: string;
     buildId: string;
